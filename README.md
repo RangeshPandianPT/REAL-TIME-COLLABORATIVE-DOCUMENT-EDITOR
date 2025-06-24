@@ -36,6 +36,12 @@ RealTime_Collab_Doc_Editor/
 
 ---
 
+# PREVIEW
+
+![Image](https://github.com/user-attachments/assets/dc47ba2d-8f27-4405-a5d0-9a520946917a)
+
+![Image](https://github.com/user-attachments/assets/28a9f77a-11e9-4cad-ba58-b8e447e92b37)
+
 
 ---
 
