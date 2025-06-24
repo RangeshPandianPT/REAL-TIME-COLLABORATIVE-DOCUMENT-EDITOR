@@ -1,5 +1,21 @@
 # 📝 Real-Time Collaborative Document Editor
 
+---
+
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : MUZAMMIL AHMED 
+
+INTERN ID : CT04DG2827
+
+DOMAIN: WEB DEVELOPMENT 
+
+DURATION : 4 WEEKS 
+
+MWNTOR : NEELA SANTHOS 
+
+---
+
 A real-time, multi-user collaborative document editor built using **React.js**, **Node.js**, **Socket.IO**, and **MongoDB**. This app allows users to collaboratively edit documents with live syncing, formatting options, and user presence — similar to Google Docs.
 
 ---
